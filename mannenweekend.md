@@ -12,3 +12,4 @@
 - pleisters
 - blarenpleisters
 - ontsmettingsmiddel
+- zonnebrand
